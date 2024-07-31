@@ -1,6 +1,6 @@
 <?php
 // Define the recipient email address
-$recipient = "info@21stcentury.ae";
+$recipient = "21stcenturyae@gmail.com";
 
 // Get form data
 $name = htmlspecialchars($_POST['name']);
